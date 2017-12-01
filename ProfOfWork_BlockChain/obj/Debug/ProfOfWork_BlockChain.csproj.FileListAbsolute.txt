@@ -1,0 +1,9 @@
+c:\users\kazakov500\documents\visual studio 2015\Projects\ProfOfWork_BlockChain\ProfOfWork_BlockChain\bin\Debug\ProfOfWork_BlockChain.exe.config
+c:\users\kazakov500\documents\visual studio 2015\Projects\ProfOfWork_BlockChain\ProfOfWork_BlockChain\bin\Debug\ProfOfWork_BlockChain.exe
+c:\users\kazakov500\documents\visual studio 2015\Projects\ProfOfWork_BlockChain\ProfOfWork_BlockChain\bin\Debug\ProfOfWork_BlockChain.pdb
+c:\users\kazakov500\documents\visual studio 2015\Projects\ProfOfWork_BlockChain\ProfOfWork_BlockChain\obj\Debug\ProfOfWork_BlockChain.csprojResolveAssemblyReference.cache
+c:\users\kazakov500\documents\visual studio 2015\Projects\ProfOfWork_BlockChain\ProfOfWork_BlockChain\obj\Debug\ProfOfWork_BlockChain.Form1.resources
+c:\users\kazakov500\documents\visual studio 2015\Projects\ProfOfWork_BlockChain\ProfOfWork_BlockChain\obj\Debug\ProfOfWork_BlockChain.Properties.Resources.resources
+c:\users\kazakov500\documents\visual studio 2015\Projects\ProfOfWork_BlockChain\ProfOfWork_BlockChain\obj\Debug\ProfOfWork_BlockChain.csproj.GenerateResource.Cache
+c:\users\kazakov500\documents\visual studio 2015\Projects\ProfOfWork_BlockChain\ProfOfWork_BlockChain\obj\Debug\ProfOfWork_BlockChain.exe
+c:\users\kazakov500\documents\visual studio 2015\Projects\ProfOfWork_BlockChain\ProfOfWork_BlockChain\obj\Debug\ProfOfWork_BlockChain.pdb
